@@ -7,6 +7,7 @@ The core enrironment is AllenNLP 1.0 with Python 3.7. For further details, pleas
 
 ### Data
 All data is included in ./data_combinations, including that from InScript, DeScript and back-translation paraphrased InScript, and our train/val splits. Our experiments were conducted with different combinations of these files.
+
 ---
 
 
