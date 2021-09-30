@@ -6,7 +6,13 @@ This repository shares the code and data for our paper [Script parsing with hier
 The core enrironment is AllenNLP 1.0 with Python 3.7. For further details, please refer to ./wp120200722 
 
 ### Data
-All data is included in ./data_combinations, including that from InScript, DeScript and back-translation paraphrased InScript, and our train/val splits. Our experiments were conducted with different combinations of these files.
+All data is included in ./data_combinations, including that from InScript, DeScript and back-translation paraphrased InScript, and our train/val splits. Our experiments were conducted with different combinations of these files. 
+
+### Usage
+
+0. your data format should follow that of the files in ./data_combinations
+1. adjust settings in SSP_optimization_script.py
+2. execute SSP_optimization_script.py
 
 ---
 
